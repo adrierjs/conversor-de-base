@@ -1,4 +1,3 @@
-#só não funciona ainda para base hexadecimal
 dicionario = {
     10: "A",
     11: "B",
